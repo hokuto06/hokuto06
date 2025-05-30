@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm hokuto06 👋
 
-<!--
-**hokuto06/hokuto06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find a selection of my projects, where I explore software development and technology.
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 **[Project 1](https://github.com/hokuto06/project1)**  
+  A brief description of what this project does or what technology it uses.
+
+- 🌟 **[Project 2](https://github.com/hokuto06/project2)**  
+  A brief description of this project or its key features.
+
+- 🌟 **[Project 3](https://github.com/hokuto06/project3)**  
+  A short summary about this project.
+
+<!-- Add or update your projects above! -->
+
+## 👨‍💻 About Me
+
+- 💡 Passionate about learning and creating.
+- 🛠️ Love working on interesting problems and building useful tools.
+- 📫 How to reach me: [Your preferred contact info or social link]
+
+## 📈 GitHub Stats
+
+![hokuto06's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hokuto06&show_icons=true&theme=default)
+
+---
+
+Thanks for stopping by! 🚀
