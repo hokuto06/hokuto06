@@ -1,10 +1,10 @@
-# Hi there, I'm hokuto06 👋
+# Hi there, I'm Esteban 👋
 
 Welcome to my GitHub profile! Here you'll find a selection of my projects, where I explore software development and technology.
 
 ## 🚀 Featured Projects
 
-- 🌟 **[Project 1](https://github.com/hokuto06/project1)**  
+- 🌟 **[Project 1](https://github.com/hokuto06/projects/1)**  
   A brief description of what this project does or what technology it uses.
 
 - 🌟 **[Project 2](https://github.com/hokuto06/project2)**  
